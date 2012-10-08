@@ -1,3 +1,7 @@
+Open Source Yoga 
+
+Open source efficient distributed donation-based yoga for everyone.
+
 child<br />
 downwarddog<br />
 sunsalutation<br />

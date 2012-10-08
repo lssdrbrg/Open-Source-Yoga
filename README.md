@@ -1,75 +1,68 @@
-Open-Source-Yoga
-================
-
-Open source distributed donation-based yoga for everyone
-
-Current build
-
 child<br />
 downwarddog<br />
 sunsalutation<br />
 flow<br />
-sunsalutation
-flow
-sunsalutation
-flow
-sunsalutation
-flow
-sunsalutation
-flow
-warrior1 right
-flow
-warrior1 left
-flow
-warrior1 right
-flow
-warrior1 left
-flow
-warrior2 right
-flow
-warrior2 left
-flow
-warrior2 right
-flow
-warrior2 left
-flow
-warrior3 right
-flow
-warrior3 left
-flow
-chair
-flow
-chair
-flow
-sideangle right
-flow
-sideangle left
-flow
-sideangle right
-flow
-sideangle left
-flow
-triangle right
-revolved triangle
-flow
-triangle right
-revolved triangle
-flow
-chair
-flow
-chair
-flow
-forearm balance
-child
-seated forward fold
-seated twist right
-seated twist left
-forward fold
-layback
-boat
-layback
-spinal twist right
-spinal twist left
-bridge
-bridge
-corpse
+sunsalutation<br />
+flow<br />
+sunsalutation<br />
+flow<br />
+sunsalutation<br />
+flow<br />
+sunsalutation<br />
+flow<br />
+warrior1 right<br />
+flow<br />
+warrior1 left<br />
+flow<br />
+warrior1 right<br />
+flow<br />
+warrior1 left<br />
+flow<br />
+warrior2 right<br />
+flow<br />
+warrior2 left<br />
+flow<br />
+warrior2 right<br />
+flow<br />
+warrior2 left<br />
+flow<br />
+warrior3 right<br />
+flow<br />
+warrior3 left<br />
+flow<br />
+chair<br />
+flow<br />
+chair<br />
+flow<br />
+sideangle right<br />
+flow<br />
+sideangle left<br />
+flow<br />
+sideangle right<br />
+flow<br />
+sideangle left<br />
+flow<br />
+triangle right<br />
+revolved triangle<br />
+flow<br />
+triangle right<br />
+revolved triangle<br />
+flow<br />
+chair<br />
+flow<br />
+chair<br />
+flow<br />
+forearm balance<br />
+child<br />
+seated forward fold<br />
+seated twist right<br />
+seated twist left<br />
+forward fold<br />
+layback<br />
+boat<br />
+layback<br />
+spinal twist right<br />
+spinal twist left<br />
+bridge<br />
+bridge<br />
+corpse<br />

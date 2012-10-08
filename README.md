@@ -5,10 +5,10 @@ Open source distributed donation-based yoga for everyone
 
 Current build
 
-child
-downwarddog
-sunsalutation
-flow
+child<br />
+downwarddog<br />
+sunsalutation<br />
+flow<br />
 sunsalutation
 flow
 sunsalutation
